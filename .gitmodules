@@ -7,3 +7,9 @@
 [submodule "Commands"]
 	path = Commands
 	url = https://github.com/SSK015/Commands.git
+[submodule "dotfiles"]
+	path = dotfiles
+	url = https://github.com/SSK015/dotfiles.git
+[submodule "LogsandConfig"]
+	path = LogsandConfig
+	url = https://github.com/SSK015/LogsandConfig.git
