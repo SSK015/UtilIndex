@@ -1,0 +1,9 @@
+[submodule "PL-learning"]
+	path = PL-learning
+	url = https://github.com/SSK015/PL-learning.git
+[submodule "FreqCodeSegs"]
+	path = FreqCodeSegs
+	url = https://github.com/SSK015/FreqCodeSegs.git
+[submodule "Commands"]
+	path = Commands
+	url = https://github.com/SSK015/Commands.git
